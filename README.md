@@ -7,3 +7,4 @@ https://medium.com/analytics-vidhya/web-scraping-a-wikipedia-table-into-a-datafr
 
 https://medium.com/codex/measuring-portfolio-risk-using-monte-carlo-simulation-in-python-part-1-ac69ea9802f
 
+https://medium.com/p/800d46fceea7
